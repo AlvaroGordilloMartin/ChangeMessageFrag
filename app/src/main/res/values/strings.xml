@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChangeMessageFragment</string>
+    <string name="btSendMessage">Enviar Mensaje</string>
+    <string name="hintMessage">Escribe aquí el texto</string>
+    <string name="btAbout">Informacion del autor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
